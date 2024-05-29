@@ -1,5 +1,5 @@
 # flutter_assignment_4
-Crud app with REST API
+Crud app with REST API.
 A new Flutter project for Ostad exam week 3 assignment.
 
 ## Getting Started
